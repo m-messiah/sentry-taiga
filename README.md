@@ -39,5 +39,5 @@ License
 
 MIT License. See [LICENSE](https://github.com/rochsystems/sentry-taiga/blob/master/LICENSE) file.
 
-Based on [sentry-gitlab](https://pypi.python.org/pypi/python-taiga) from Pancentric Ltd.
+Based on [sentry-gitlab](https://github.com/pancentric/sentry-gitlab) from Pancentric Ltd.
 
